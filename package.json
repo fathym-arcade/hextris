@@ -1,6 +1,6 @@
 {
   "name": "@fathym-arcade/hextris",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "build": "",
     "deploy": "npm version patch && npm run deploy:app",
